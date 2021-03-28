@@ -1,2 +1,4 @@
 # HelloWorld
-for my github test
+This is my test project
+
+please leave comments if you like it
